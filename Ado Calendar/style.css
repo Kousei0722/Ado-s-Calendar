@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/QeQt714ZaKU/maxresdefault.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+@media screen and (max-width:1500px) {
+    
+    body{
+        background-image: url("https://nextshark.b-cdn.net/wp-content/uploads/2022/11/Ado_ArtistImage-min-scaled.jpg?width=1536&auto_optimize=medium&quality=85");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    
+}
+
+@media screen and (max-width: 1000px) {
+    body{
+        background-image: url("https://static.wikia.nocookie.net/nicodougasingers/images/b/b8/2025.01_%281_-_v1%29.jpg/revision/latest/scale-to-width-down/1200?cb=20250126182908");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    
+    
+
+}
